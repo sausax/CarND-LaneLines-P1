@@ -77,8 +77,8 @@ Another problem is that the code breaks when encountering curved road.
 
 ### 4. Possible improvements
 
-*Ability to dynamically select region of interest.
-*Better tuned parameters for Hough transform. 
-*Non linear line fitting.
+* Ability to dynamically select region of interest.
+* Better tuned parameters for Hough transform. 
+* Non linear line fitting.
 
 
